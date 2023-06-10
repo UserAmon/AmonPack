@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="paper-api-1.18.2-R0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/paper-api-1.18.2-R0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

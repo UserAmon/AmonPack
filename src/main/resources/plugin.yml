@@ -1,0 +1,18 @@
+name: AmonPack
+version: '${project.version}'
+main: methods_plugins.AmonPackPlugin
+api-version: 1.18
+authors: [ Amon ]
+depend: ['ProjectKorra']
+description: 'Plugin made for Avatarserv'
+commands:
+  reload:
+    description: reload
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
+  QuestItems:
+    description: QuestItems
+    usage: /<command>
+  SpellTree:
+    description: choose yours spells
+    usage: /<command>
